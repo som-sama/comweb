@@ -1,0 +1,19 @@
+{
+  "data": [ 
+ {   
+    "name": "Eddie Hub Community",   
+    "tags": ["open source"],
+    "slack": "https://eddiehub.slack.com"
+  },
+  {
+    "name": "Boot Dev Community",
+    "tags": ["backend"],
+    "slack": "https://bootdev.slack.com"
+  },
+  {
+    "name": "DevV House Community",
+    "tags": ["anime"], 
+    "discord": "https://devvhouse.discord.com"
+  }
+]
+}

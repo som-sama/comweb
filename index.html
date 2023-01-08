@@ -5,19 +5,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
     <title>Com Web</title>
 </head>
 <body>
     <div class="info-section">
     <h1>Com Web</h1>
     <p> The google for communities.</p>
-    <p>How to get started?
-        - Click the tags based on your liking and it will display the communities based on that.
-    </p>
-</div>
-<br>
-<br>
-<br>
+    </div>
+    <br>
+    <div class="Search-Bar">
+        <form onsubmit="handleSearch()">
+            <input type="text" id="search-input" placeholder="Enter search terms">
+            <button type="submit">Search</button>
+          </form>
 
         <a href="./orgs/opensource.html"><button>Open Source</button></a>
         <a href="./orgs/animes.html"><button>Animes</button></a>
@@ -25,6 +26,10 @@
         <script src="script.js"></script>
 
     </div>
+     </header>
+
     
+    
+   
 </body>
 </html>

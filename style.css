@@ -1,47 +1,16 @@
 body{
     background-color: black;
+    text-align: center;
 }   
-h1, p{
+h1{
     color: white;
-    font-size: 50px;
-
+    font-size: 70px;
+}
+p{
+  color: white;
+  font-size: 25px;
 }
 .info-section{
     text-align: center;
 }
-.Search-Bar{
-    text-align: center;
-}
-form {
-    display: flex;
-    width: 500px;
-    margin: 0 auto;
-  }
-  
-  input[type="text"] {
-    flex: 1;
-    padding: 10px;
-    font-size: 16px;
-  }
-  
-  button[type="submit"] {
-    padding: 10px;
-    font-size: 16px;
-    background-color: green;
-    color: white;
-  }
-  
-  #tags-list {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  #tags-list li {
-    display: inline-block;
-    margin: 0 10px 10px 0;
-    padding: 5px 10px;
-    background-color: lightblue;
-    border-radius: 5px;
-  }
-  
+    

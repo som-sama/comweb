@@ -1,6 +1,6 @@
 # ComWeb.
 # A website for communities.
 Let me explain. 
-We will make a website where there will be certain tags inbuilt such as open source, frontend, backend, etc. If someone clicks on the tag then the website will display all the communities which are related to those tags. Suppose, a user selects Open Source so then the website will display all the communities in the web which talk about open source such as Eddie Hub. If they select backend we have Boot Dev. If they select Anime we have DevV House and so on. From there, users can select the website and join their slack/discord. 
+It is a website where there will be certain tags inbuilt such as open source, frontend, animes, etc. If someone clicks on the tag then the website will display all the communities which are related to those tags. Suppose, a user selects Open Source so then the website will display all the communities in the web which talk about open source such as Eddie Hub. If they select backend we have Boot Dev. If they select Anime we have DevV House and so on. From there, users can select the website and join their slack/discord. 
 With the help of this website, users can easily find the best communities according to their niche all in one place. 
 Also, in future we can add few features like rating of that particular community, reviews and many more
